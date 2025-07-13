@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<!--
+	Mayank Gaur	camayankgaur.in | www.linkedin.com/in/mayankgaur-ca	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>CA Mayank Gaur</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="assets/css/main.css">
+  </head>
+  <body class="is-preload">
+    <!-- Wrapper -->
+    <div id="wrapper">
+      <!-- Main -->
+      <div id="main">
+        <div class="inner">
+          <!-- Header -->
+          <header id="header"> <a href="index.html" class="logo"><strong>Mayank
+                Gaur</strong> CA, CS, FMVA, FTIP, DISA</a>
+            <ul class="icons">
+              <li><a href="https://wa.me/919599509301" class="icon brands fa-whatsapp"
+
+                  target="_blank"><span class="label">WhatsApp</span></a></li>
+              <li><a href="https://www.facebook.com/cacsmayankgaur/" class="icon brands fa-facebook-f"
+
+                  target="_blank"><span class="label">Facebook</span></a></li>
+              <li><a href="https://www.instagram.com/camayank_gaur/" class="icon brands fa-instagram"
+
+                  target="_blank"><span class="label">Instagram</span></a></li>
+              <li><a href="https://www.linkedin.com/in/mayankgaur-ca/" class="icon brands fa-linkedin"
+
+                  target="_blank"><span class="label">LinkedIn</span></a></li>
+              <li><a href="https://www.threads.net/@camayank_gaur" class="icon brands fa-at"
+
+                  target="_blank"><span class="label">Threads</span></a></li>
+            </ul>
+          </header>
+          <!-- Banner -->
+          <section id="banner">
+            <div class="content">
+              <header>
+                <h1 style="width: 565px;">Hi, I’m Mayank Gaur<br>
+                  Finance Professional</h1>
+                <p>ERP Implementation Specialist, Tech Enthusiast and wannabe
+                  Blogger</p>
+              </header>
+              <p></p>
+              <ul class="actions">
+                <li><a href="https://www.globalshisya.com/" class="button big" target="_top">Learn
+                    More</a></li>
+              </ul>
+            </div>
+            <span class="image object"> <img src="images/pic10.jpg" alt="" style="width: 366px; height: 449px;">
+            </span> </section>
+          <!-- Section -->
+          <section>
+            <header class="major">
+              <h2>My Skills</h2>
+            </header>
+            <div class="features">
+              <article> <span class="icon fa-gem"></span>
+                <div class="content">
+                  <h3>Financial Modelling</h3>
+                  <p>Skilled in building dynamic, logic-driven financial models
+                    to forecast performance, evaluate investment scenarios, and
+                    support strategic decision-making. Proficient in integrating
+                    financial statements, scenario analysis, and valuation
+                    techniques in a clean, scalable format.</p>
+                </div>
+              </article>
+              <article> <span class="icon solid fa-paper-plane"></span>
+                <div class="content">
+                  <h3>Financial Reporting</h3>
+                  <p>Experienced in preparing accurate and compliant financial
+                    statements in line with IFRS and local GAAP. Adept at
+                    streamlining reporting processes, ensuring timely
+                    disclosures, and delivering actionable insights to
+                    stakeholders through clear, data-backed reports.</p>
+                </div>
+              </article>
+              <article> <span class="icon solid fa-rocket"></span>
+                <div class="content">
+                  <h3>ERP and Accounting Systems</h3>
+                  <p>Proven experience in end-to-end SAP and Microsoft D365 ERP
+                    implementations. Skilled in using a wide range of accounting
+                    and ERP platforms including SAP, D365, Oracle, Tally, Zoho,
+                    Xero, QuickBooks, and ERPNext to streamline financial
+                    operations and enhance reporting accuracy.</p>
+                </div>
+              </article>
+              <article> <span class="icon solid fa-signal"></span>
+                <div class="content">
+                  <h3>Taxation</h3>
+                  <p>Extensive experience in direct and indirect taxation across
+                    India, the US, and UAE, with hands-on expertise in UK and
+                    France tax regimes. Proficient in managing GST, VAT, and
+                    corporate tax compliance, optimizing tax strategies, and
+                    ensuring cross-border regulatory adherence.</p>
+                </div>
+              </article>
+            </div>
+          </section>
+        </div>
+      </div>
+      <!-- Sidebar -->
+      <div id="sidebar">
+        <div class="inner" style="width: 385px;">
+          <!-- Search -->
+          <section id="search" class="alt">
+            <form method="post" action="#"> <input name="query" id="query" placeholder="Search"
+
+                type="text"> </form>
+          </section>
+          <!-- Menu -->
+          <nav id="menu">
+            <header class="major">
+              <h2>Menu</h2>
+            </header>
+            <ul>
+              <li><a href="index.html">Homepage</a></li>
+              <li><a href="https://www.globalshisya.com/" title="My Blog" target="_top">My
+                  Blog</a></li>
+              <li><a href="AI.html">AI and Tech Study</a></li>
+              <li><a href="#">Finance</a></li>
+              <li><a href="#">Tax</a></li>
+              <li><a href="AS.html">Accounting Standards</a></li>
+              <li><a href="#">Corporate Governance</a></li>
+              <li> <span class="opener">My Bookmarks</span>
+                <ul>
+                  <li><a href="https://pages.stern.nyu.edu/~adamodar/">Ashwath Damodaran</a></li>
+                  <li><a href="https://aswathdamodaran.blogspot.com/">Market Musings</a></li>
+                  <li><a href="https://people.highline.edu/mgirvin/">ExcelisFun-Mike Girvin</a></li>
+                  <li><a href="https://edbodmer.com/">EdBodmer</a></li>
+                  <li><a href="https://www.icai.org/">ICAI</a></li>
+                  <li><a href="https://www.icsi.edu/home/">ICSI</a></li>
+                  <li><a href="https://www.investopedia.com/">Investopedia</a></li>
+                  <li><a href="https://www.zawya.com/en/mena">UAE Finance</a></li>
+                  </ul>
+              </li>
+              <li> <span class="opener">Awesome List</span>
+                <ul>
+                  <li><a href="https://github.com/wilsonfreitas/awesome-quant">Awesome Quant</a></li>
+                  <li><a href="https://github.com/georgezouq/awesome-ai-in-finance">Awesome AI in Finance</a></li>
+                  <li><a href="https://github.com/ong/awesome-decentralized-finance">Awesome DeFi</a></li>
+                  <li><a href="https://github.com/mr-karan/awesome-investing">Awesome Investing</a></li>
+                  <li><a href="https://github.com/simpleaswater/defi-resources">DeFi Resources</a></li>
+                  <li><a href="https://github.com/romainsimon/awesome-investing">Awesome Investing</a></li>
+                  <li><a href="https://github.com/sindresorhus/awesome">Awesome List</a></li>
+                  <li><a href="https://github.com/vinta/awesome-python">Awesome Python</a></li>
+                  <li><a href="https://github.com/f/awesome-chatgpt-prompts">Awesome GPT prompts</a></li>
+                  <li><a href="https://github.com/josephmisiti/awesome-machine-learning">Awesome AI/ML</a></li>
+                </ul>
+              </li>
+               <li> <span class="opener">Misc</span>
+                <ul>
+                  <li><a href="https://github.com/">Github</a></li>
+                  <li><a href="https://v0.dev/">Vercel Dev</a></li>
+                  <li><a href="https://github.com/awesome-selfhosted/awesome-selfhosted">Awesome SelfHosted</a></li>
+                  <li><a href="https://github.com/enaqx/awesome-pentestn">Awesome Pentesting</a></li>
+                  <li><a href="https://github.com/Hack-with-Github/Awesome-Hacking">Awesome Hacking</a></li>
+                  <li><a href="https://github.com/bayandin/awesome-awesomeness">Misc</a></li>
+                </ul>
+              </li>
+            </ul>
+          </nav>
+          <section>
+            <header class="major">
+              <h2>Get in touch</h2>
+            </header>
+            <p>Whether you’re looking to collaborate, have a question, or just
+              want to connect — I’d love to hear from you! Feel free to reach
+              out. </p>
+            <ul class="contact">
+              <li class="icon solid fa-envelope"><a href="#">globalshisya@gmail.com</a></li>
+              <li class="icon brands fa-linkedin"><a href="https://www.linkedin.com/in/mayankgaur-ca/">LinkedIn
+                  </a></li>
+            </ul>
+          </section>
+          <!-- Footer -->
+          <footer id="footer">
+            <p class="copyright">© All rights reserved.</p>
+          </footer>
+        </div>
+      </div>
+    </div>
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>
